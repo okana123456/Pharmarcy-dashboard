@@ -1,5 +1,5 @@
 """
-Kenya Pharmacy Dashboard - PREMIUM EDITION
+BiasharaFlow Pharma - RUDDER RESEARCH
 Executive-grade remote monitoring for Kenyan chemists/pharmacies
 Mobile-first, M-Pesa focused, fraud detection enabled
 Version 2.0 - Full Featured
