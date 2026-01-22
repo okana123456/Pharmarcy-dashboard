@@ -20,7 +20,7 @@ warnings.filterwarnings('ignore')
 # PAGE CONFIG - MUST BE FIRST
 # ============================================================================
 st.set_page_config(
-    page_title="PharmaDash Kenya | Premium Analytics",
+    page_title="BiasharaFlow Pharma | Rudder Research",
     page_icon="💊",
     layout="wide",
     initial_sidebar_state="expanded"
