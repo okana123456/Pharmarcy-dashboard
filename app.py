@@ -601,7 +601,7 @@ def main():
     # ========== HEADER ==========
     st.markdown("""
     <div class="main-header">
-        <h1>💊 PharmaDash Kenya</h1>
+        <h1>💊 BiasharaFlow Pharma Rudder Research</h1>
         <p>Premium Analytics Dashboard • 3 Outlets • Real-time Monitoring</p>
         <div class="live-clock">📅 """ + datetime.now().strftime("%A, %d %B %Y | %H:%M") + """</div>
     </div>
