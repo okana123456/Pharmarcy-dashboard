@@ -1830,10 +1830,10 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666; padding: 1rem;">
-        <p>💊 <strong>PharmaDash Kenya</strong> | Premium Analytics Dashboard</p>
-        <p>Built for Kenyan Pharmacies • M-Pesa Integrated • Mobile Optimized</p>
-        <p>📧 support@pharmadash.co.ke | 📱 +254 700 000 000</p>
-        <p style="font-size: 0.8rem;">© 2024 PharmaDash Kenya. All rights reserved.</p>
+        <p>💊 <strong>BiasharaFlow Rudder Research</strong> | BiasharaFlow Pharma</p>
+        <p>Built for Kenyan Pharmacies • See the Flow. Grow the Biashara</p>
+        <p>📧 info@rudderdatanalytics.co.ke | 📱 +254 792719505</p>
+        <p style="font-size: 0.8rem;">© 2026 Rudder Research and Data Analytics LTD. All rights reserved.</p>
     </div>
     """, unsafe_allow_html=True)
 
